@@ -1,0 +1,7 @@
+# python by-products
+__pycache__/
+*.pyc
+
+# vim by-products
+*.swp
+
